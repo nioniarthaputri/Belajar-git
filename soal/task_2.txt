@@ -1,0 +1,11 @@
+Pull Request
+
+Setelah kamu melakukan push ke repository kamu sendiri, sekarang saatnya kamu mengajukan perubahan yang kamu lakukan ke
+repository pemilik aslinya misal guru, ceo, atau project manager.
+
+
+1. Coba buat pull request dari repository kamu ke repository master ini
+	referensi : https://www.petanikode.com/github-workflow/ (buka bagian 5. Membuat Pull Request).
+
+2. Setelah tugas diatas beres, coba whatsapp amos dan bilang kamu sudah selesau mengerjakan soal no 2.
+	Jangan dulu buka file soal 3.txt nanti bingung.

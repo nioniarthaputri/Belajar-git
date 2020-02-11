@@ -1,0 +1,10 @@
+Stay UptoDate dengan Repository Asli.
+
+Akan ada kasus dimana teman setim kamu melakukan pull request dan pull request doi diterima sama pimpinan project kamu
+dan pada saat itu repository asli akan lebih dulu 1 commit dari repository hasil fork yang kamu buat, itu artinya repository kamu kurang update
+Dan ke-tidak-update-an repository kamu bakal bikin kacau sekampung.
+
+1. Update repository hasil fork agar sesuai dan up to date dengan repository asli.
+	referensi 1: https://www.kangsunu.web.id/2019/10/sinkronisasi-fork-repositori-di-github-agar-uptodate.html
+
+Selamat kamu sukses menyelesaikan soal 3.

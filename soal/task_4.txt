@@ -1,0 +1,17 @@
+KESIMPULAN
+
+Setelah semua soal beres kamu kerjakan, selamat!!! kamu sudah punya cukup skill untuk berkontribusi di project open-source maupun project tim kamu,
+Gampang kan?
+
+Kalau kita sekilas balik lagi, yang kita lakukan cuma:
+	Fork repository asli supaya reponya ada di akun gitlab/github kita
+	Buat branch baru 
+	Terus clone repository yang kita fork supaya reponya ada di komputer kita.
+	Terus ngoding,
+	Terus kodingannya kita kirim (commit) ke repository kita (jangan lupa sebelum commit pastiin kalau repository kamu sudah up-to-date)
+	Terus buat pull request deh.
+
+Sudah kalau ada hal yang masih bingun tanya aja, bakal aku jawab.Sekali lagi selamat dan selamat tinggal hehehe
+
+Best Regards,
+Amos.

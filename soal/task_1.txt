@@ -1,0 +1,23 @@
+1. Fork repository ini lalu clone ke git local di komputer kamu
+	referensi 
+	https://www.petanikode.com/github-workflow/
+	referensi 1
+	https://www.portaljawa.com/cara-fork-github-repository-dengan-mudah/
+	referensi 2
+	https://supertutorialsite.wordpress.com/2016/12/09/tutorial-clone-gitlab-menggunakan-cmd-pada-windows/
+	pastikan kamu ngeclone repository yang kamu fork bukan repository asli nya.
+
+2. Buat branch baru di repository hasil fork tadi dengan nama "<namakamu-branch>" misal amos-branch
+
+2. Ubah file task.txt yang ada di repository ini
+	Tambahkan text, "Dirubah oleh (nama kamu) pada tanggal sekian"
+
+3. Commit perubahan yang kamu lakukan pada file di git local kamu
+	referensi 1: https://www.petanikode.com/git-commit/
+
+4. Kirim commit yang kamu lakukan ke repository github / gitlab
+	referensi 1: https://www.petanikode.com/git-remote/ (buka subJudul "Mengirim Revisi ke Remote Repository"
+	note : pastikan kamu mengirim commit perubahan ke branch yang kamu buat sendiri di tugas sebelumnya misal amos-branch tadi, pastikan kamu tidak mengirim ke branch master
+	jadi git push origin amos-branch, bukan git push origin master
+
+Jika sudah selesai, selamat anda berhasil menyelesaikan task pertama.
